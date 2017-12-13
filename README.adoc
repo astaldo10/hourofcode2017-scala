@@ -1,0 +1,15 @@
+= Hour of Code 2017: Introduction to Functional Programming with Scala
+
+Quick and simple introduction to Functional Programing with Scala for Hour of Code 2017 event.
+
+== How to...
+
+* compile the project: `sbt compile`
+* run the project: `sbt "run <generations>"`
+* package the project: `sbt assembly`
+* run the packaged project: `java -cp <path to generated jar> hourofcode2017.scala.gameoflife.<version>.GameOfLife <generations>`
+
+== Bibliography
+
+. Functional Programing with Scala: https://www.manning.com/books/functional-programming-in-scala
+. Type classes in Scala: https://blog.scalac.io/2017/04/19/typeclasses-in-scala.html
