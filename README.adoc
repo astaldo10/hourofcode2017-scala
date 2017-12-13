@@ -1,6 +1,6 @@
 = Hour of Code 2017: Introduction to Functional Programming with Scala
 
-Quick and simple introduction to Functional Programing with Scala for Hour of Code 2017 event.
+Quick and simple introduction to Functional Programming with Scala for Hour of Code 2017 event.
 
 == Requirements
 
