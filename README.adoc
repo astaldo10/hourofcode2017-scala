@@ -2,6 +2,11 @@
 
 Quick and simple introduction to Functional Programing with Scala for Hour of Code 2017 event.
 
+== Requirements
+
+* java
+* sbt-extras
+
 == How to...
 
 * compile the project: `sbt compile`
