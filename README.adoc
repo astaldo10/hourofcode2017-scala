@@ -13,3 +13,4 @@ Quick and simple introduction to Functional Programing with Scala for Hour of Co
 
 . Functional Programing with Scala: https://www.manning.com/books/functional-programming-in-scala
 . Type classes in Scala: https://blog.scalac.io/2017/04/19/typeclasses-in-scala.html
+. Implicit classes: https://docs.scala-lang.org/overviews/core/implicit-classes.html
