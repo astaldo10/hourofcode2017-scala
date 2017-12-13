@@ -5,7 +5,7 @@ Quick and simple introduction to Functional Programing with Scala for Hour of Co
 == Requirements
 
 * java
-* sbt-extras
+* https://github.com/paulp/sbt-extras[sbt-extras]
 
 == How to...
 
